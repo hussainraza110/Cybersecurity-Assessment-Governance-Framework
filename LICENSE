@@ -1,0 +1,46 @@
+Cybersecurity Assessment & Governance Framework
+Attribution-Required License — Version 1.0
+Copyright (c) 2026 Hussain Raza Naqvi
+
+IMPORTANT: This is a custom license drafted for this repository. It is not an OSI-approved open-source license. Seek legal review if you need broad commercial reuse, license compatibility, or legal certainty.
+
+1. Definitions
+“Work” means original documentation, templates, examples, diagrams, and other material authored by Hussain Raza Naqvi and distributed in this repository, excluding Third-Party Material.
+“Third-Party Material” means material owned by others, including standards, frameworks, quotations, trademarks, and linked resources.
+“Attribution” means visible credit to Hussain Raza Naqvi, a link to the original repository, and a statement identifying whether the Work was modified.
+
+2. Permission
+Subject to these conditions, the copyright holder grants a worldwide, non-exclusive, non-transferable, revocable license to access, reproduce, display, share, and modify the Work for personal, educational, research, and internal organizational use.
+
+3. Conditions
+When downloading, using, reproducing, sharing, publishing, or modifying the Work, you must:
+a. Preserve this license and applicable copyright notices.
+b. Provide Attribution in a reasonably visible location, including in redistributed copies and derivative works.
+c. Include the original repository URL: https://github.com/hussainraza110/Cybersecurity-Assessment-Governance-Framework
+d. Identify material changes when distributing a modified version.
+e. Not imply that the original author endorses, certifies, or is responsible for your implementation or derivative work.
+f. Respect rights and licensing terms applying to Third-Party Material.
+
+Suggested attribution:
+“Based on work by Hussain Raza Naqvi, Cybersecurity Assessment & Governance Framework: https://github.com/hussainraza110/Cybersecurity-Assessment-Governance-Framework. Modified: [yes/no].”
+
+4. Restrictions
+You may not remove required attribution or represent the Work as entirely your own. This license does not grant rights to use the author's name, identity, logos, or marks to imply endorsement. No patent license is granted.
+Commercial redistribution, resale, or incorporation into a commercial product or paid service is not granted unless the copyright holder gives separate written permission. Internal organizational use is permitted subject to the conditions above.
+
+5. No warranty
+THE WORK IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, ACCURACY, OR NON-INFRINGEMENT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+6. Limitation of liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR CLAIMS, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE WORK OR ITS USE, INCLUDING DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL LOSS. Nothing excludes liability where such exclusion is prohibited by law.
+
+7. Termination
+Permissions terminate automatically if you materially breach these conditions. If a breach is curable and is cured, permissions may be reinstated to the extent permitted by law and the copyright holder.
+
+8. Reservation of rights
+All rights not expressly granted are reserved. This license does not limit rights users have under applicable law independent of this license.
+
+9. Governing law
+No governing law or jurisdiction is specified by this template. Disputes are subject to applicable law and jurisdiction determined by relevant legal rules.
+
+END OF LICENSE
