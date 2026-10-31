@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="628.2pt" height="430.6375pt" viewBox="0 0 628.2 430.6375" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T12:42:59.254339</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 430.6375 
+L 628.2 430.6375 
+L 628.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 71.0352 129.952 
+L 557.1648 129.952 
+Q 564.5304 129.952 564.5304 124.1308 
+L 564.5304 86.7781 
+Q 564.5304 80.9569 557.1648 80.9569 
+L 71.0352 80.9569 
+Q 63.6696 80.9569 63.6696 86.7781 
+L 63.6696 124.1308 
+Q 63.6696 129.952 71.0352 129.952 
+z
+" clip-path="url(#pe9756e7ea4)" style="fill: #ffffff; stroke: #000000; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 314.1 132.098266 
+Q 314.1 139.654273 314.1 147.210279 
+" clip-path="url(#pe9756e7ea4)" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 311.9 136.498266 
+L 314.1 132.098266 
+L 316.3 136.498266 
+z
+" clip-path="url(#pe9756e7ea4)" style="fill: #1f77b4; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 316.3 142.810279 
+L 314.1 147.210279 
+L 311.9 142.810279 
+z
+" clip-path="url(#pe9756e7ea4)" style="fill: #1f77b4; stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 71.0352 197.866 
+L 557.1648 197.866 
+Q 564.5304 197.866 564.5304 192.0448 
+L 564.5304 154.6921 
+Q 564.5304 148.8709 557.1648 148.8709 
+L 71.0352 148.8709 
+Q 63.6696 148.8709 63.6696 154.6921 
+L 63.6696 192.0448 
+Q 63.6696 197.866 71.0352 197.866 
+z
+" clip-path="url(#pe9756e7ea4)" style="fill: #ffffff; stroke: #000000; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 314.1 200.012266 
+Q 314.1 207.568273 314.1 215.124279 
+" clip-path="url(#pe9756e7ea4)" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 311.9 204.412266 
+L 314.1 200.012266 
+L 316.3 204.412266 
+z
+" clip-path="url(#pe9756e7ea4)" style="fill: #1f77b4; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 316.3 210.724279 
+L 314.1 215.124279 
+L 311.9 210.724279 
+z
+" clip-path="url(#pe9756e7ea4)" style="fill: #1f77b4; stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 71.0352 265.78 
+L 557.1648 265.78 
+Q 564.5304 265.78 564.5304 259.9588 
+L 564.5304 222.6061 
+Q 564.5304 216.7849 557.1648 216.7849 
+L 71.0352 216.7849 
+Q 63.6696 216.7849 63.6696 222.6061 
+L 63.6696 259.9588 
+Q 63.6696 265.78 71.0352 265.78 
+z
+" clip-path="url(#pe9756e7ea4)" style="fill: #ffffff; stroke: #000000; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 314.1 267.926266 
+Q 314.1 275.482273 314.1 283.038279 
+" clip-path="url(#pe9756e7ea4)" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 311.9 272.326266 
+L 314.1 267.926266 
+L 316.3 272.326266 
+z
+" clip-path="url(#pe9756e7ea4)" style="fill: #1f77b4; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 316.3 278.638279 
+L 314.1 283.038279 
+L 311.9 278.638279 
+z
+" clip-path="url(#pe9756e7ea4)" style="fill: #1f77b4; stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 71.0352 333.694 
+L 557.1648 333.694 
+Q 564.5304 333.694 564.5304 327.8728 
+L 564.5304 290.5201 
+Q 564.5304 284.6989 557.1648 284.6989 
+L 71.0352 284.6989 
+Q 63.6696 284.6989 63.6696 290.5201 
+L 63.6696 327.8728 
+Q 63.6696 333.694 71.0352 333.694 
+z
+" clip-path="url(#pe9756e7ea4)" style="fill: #ffffff; stroke: #000000; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 314.1 335.840266 
+Q 314.1 343.396273 314.1 350.952279 
+" clip-path="url(#pe9756e7ea4)" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 311.9 340.240266 
+L 314.1 335.840266 
+L 316.3 340.240266 
+z
+" clip-path="url(#pe9756e7ea4)" style="fill: #1f77b4; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 316.3 346.552279 
+L 314.1 350.952279 
+L 311.9 346.552279 
+z
+" clip-path="url(#pe9756e7ea4)" style="fill: #1f77b4; stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 71.0352 401.608 
+L 557.1648 401.608 
+Q 564.5304 401.608 564.5304 395.7868 
+L 564.5304 358.4341 
+Q 564.5304 352.6129 557.1648 352.6129 
+L 71.0352 352.6129 
+Q 63.6696 352.6129 63.6696 358.4341 
+L 63.6696 395.7868 
+Q 63.6696 401.608 71.0352 401.608 
+z
+" clip-path="url(#pe9756e7ea4)" style="fill: #ffffff; stroke: #000000; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="314.1" y="103.881312" transform="rotate(-0 314.1 103.881312)">Governance foundation</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="314.1" y="116.289169" transform="rotate(-0 314.1 116.289169)">Information Security Policy  •  Roles  •  Risk ownership</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="314.1" y="171.752344" transform="rotate(-0 314.1 171.752344)">Methodologies</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="314.1" y="184.203169" transform="rotate(-0 314.1 184.203169)">Assessment lifecycle  •  Risk  •  Evidence  •  Control assurance</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="314.1" y="239.709312" transform="rotate(-0 314.1 239.709312)">Policies &amp; procedures</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="314.1" y="252.117169" transform="rotate(-0 314.1 252.117169)">Requirements  •  Authorization  •  Operations  •  Response</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="314.1" y="307.623312" transform="rotate(-0 314.1 307.623312)">Workflows &amp; templates</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="314.1" y="320.031169" transform="rotate(-0 314.1 320.031169)">Decision paths  •  Records  •  Repeatable execution</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="314.1" y="375.537312" transform="rotate(-0 314.1 375.537312)">Examples &amp; evidence</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="314.1" y="387.945169" transform="rotate(-0 314.1 387.945169)">Worked scenarios  •  Findings  •  Registers  •  Reports</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="314.1" y="52.336" transform="rotate(-0 314.1 52.336)">Cross-cutting: assurance • traceability • continuous improvement • standards alignment</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: middle" x="314.1" y="19.3575" transform="rotate(-0 314.1 19.3575)">Cybersecurity Assessment &amp; Governance Framework</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe9756e7ea4">
+   <rect x="7.2" y="35.3575" width="613.8" height="388.08"/>
+  </clipPath>
+ </defs>
+</svg>
