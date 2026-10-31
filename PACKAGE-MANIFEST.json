@@ -1,0 +1,535 @@
+{
+  "files": {
+    "docs/policies/acceptable-use-policy.md": {
+      "sha256": "3ce4dbdb37c71be268742da04000a2dcede076743d000005ab3bf6423936e90a",
+      "bytes": 6634,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/policies/access-control-policy.md": {
+      "sha256": "0c5ea693273583ab07e9ee3ab05055ad0fa4600fb2633f76d5d4acaaa66d741e",
+      "bytes": 6627,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/policies/asset-management-policy.md": {
+      "sha256": "220e6fced638784299f11f54de22d956eefb1d6771012adeae8a18bdbc3022bb",
+      "bytes": 6645,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/policies/business-continuity-and-disaster-recovery-policy.md": {
+      "sha256": "aeffe0168a30c5ed803b594658b61e235686dc64fed39eb7404da86b5fcf9808",
+      "bytes": 6694,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/policies/change-management-policy.md": {
+      "sha256": "9eca58a3d1d99fdf79f7e29c0086d3d3f03d533ccb42bdc70307a07b85dee002",
+      "bytes": 6544,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/policies/cryptography-and-key-management-policy.md": {
+      "sha256": "f89f5cd06c8c64f8c99c7e96bbaf37b28ce1045017b6cde05d9e4418bc91fd88",
+      "bytes": 6685,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/policies/data-classification-and-handling-policy.md": {
+      "sha256": "6d048f0f96d96eb907a4bcca1a9da08ad427166ec9ce62deed6bdbac47e6bae2",
+      "bytes": 6622,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/policies/endpoint-and-mobile-device-security-policy.md": {
+      "sha256": "9b98e55343ebbe998b02fea76faf0b453cef2bc24fbd52bdffa92abc88c9457e",
+      "bytes": 6573,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/policies/network-security-policy.md": {
+      "sha256": "85c09061cb4442f293171ea867faaa6a0da7e0e1169ea8e77a42ace62c7b73e6",
+      "bytes": 6618,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/policies/physical-and-environmental-security-policy.md": {
+      "sha256": "c6c0446624921414f9b7908e46cf65961a48d9de4a3d4ebf2184abeeacc3a8cd",
+      "bytes": 6571,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/policies/privacy-and-personal-data-protection-policy.md": {
+      "sha256": "c6f802a8068d503110a1d0213dab8834baaa78dd7bf195389dc3617f6da8adc2",
+      "bytes": 6570,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/policies/remote-access-policy.md": {
+      "sha256": "58697a950bd9738edc4b3646b807118599a3d3fe981f09bc0368a882be6c2b83",
+      "bytes": 6512,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/policies/secure-configuration-and-hardening-policy.md": {
+      "sha256": "6d2330acfb615d74f375e82c43eb7fcf6d7ff197b0e56fd4f2a1f7557090baa4",
+      "bytes": 6632,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/policies/security-awareness-and-training-policy.md": {
+      "sha256": "4bedd8fe9ba6d953f16fb408149f194003033a0a216367388d9944abbc56cf24",
+      "bytes": 6535,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/policies/software-development-security-policy.md": {
+      "sha256": "aa3a6d17e2b794d2ef9407e8287a8270fddaf80157ce7072ebe6f42baaf4ed08",
+      "bytes": 6630,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/policies/third-party-and-supplier-security-policy.md": {
+      "sha256": "695e7489d13fc481d29456dcba5eee63ea54f966cae9cc395d686ee9b7f9eda2",
+      "bytes": 6665,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/backup-and-restoration-procedure.md": {
+      "sha256": "a6fa401e2f68dabc46425f2f2ec875f27599c15f30f799e838f0523e753d24c7",
+      "bytes": 14349,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/business-continuity-and-disaster-recovery-procedure.md": {
+      "sha256": "19eb817558b56a5f8f3f9cda0d837f1da2684fd0fc550fd7c36bb3820d0bfb68",
+      "bytes": 14537,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/change-and-configuration-management-procedure.md": {
+      "sha256": "ef3bd7b24929ffc4e34849531502edb19625227b8eac988e839cf2ec016dee30",
+      "bytes": 14361,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/cryptographic-key-management-procedure.md": {
+      "sha256": "d846134b70e2d7611e002709d491af3257c98c404f8120db3be9f416d57f552f",
+      "bytes": 14406,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/data-classification-and-handling-procedure.md": {
+      "sha256": "06ecc905d75184f65447d37cbdc810c9316c650bd279efc58e64f7e4ae84e802",
+      "bytes": 13397,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/identity-and-access-management-procedure.md": {
+      "sha256": "961b18d905359578c2ecb63b57517ec918ccf39d249316cf741dc0704b60117f",
+      "bytes": 14405,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/information-asset-inventory-and-lifecycle-procedure.md": {
+      "sha256": "ebf8204afe67ba1b6df3f10b3b36d31f14019d06eaaf30b6930a210f46d9fd2d",
+      "bytes": 13433,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/network-security-management-procedure.md": {
+      "sha256": "5f4eb29887ec3145e5b847605f4361551850fc2380bdfba8c1a5c7c87d33befd",
+      "bytes": 14366,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/physical-security-management-procedure.md": {
+      "sha256": "7da748b8b177069554c10b5ba639b0a0eaa5e8068e24a1f1f3b39e694b580891",
+      "bytes": 14397,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/privileged-access-management-procedure.md": {
+      "sha256": "721de7b70a053c2d78de2406d2109e03862fc2e4a7924298d33949ac795a0278",
+      "bytes": 14381,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/remote-access-management-procedure.md": {
+      "sha256": "fad700eb6c4a10b9b1e7851d301d90c7ebaa1a43383f9b18afcd61c195f5a447",
+      "bytes": 14338,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/secure-software-development-procedure.md": {
+      "sha256": "791a8b78c255a7f54f4d50f43bf6ed26d2619fecb98ff5992f6c5910a3626ef0",
+      "bytes": 15492,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/secure-system-hardening-procedure.md": {
+      "sha256": "b210642e12634ccf7cb5353b7a63d6d601d568c3dee80d36bae6abb70229895c",
+      "bytes": 14371,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/security-awareness-and-training-procedure.md": {
+      "sha256": "eedf8f94a03ce2dffae0836150a121b1cd3a7e3b179ab873d0f8901e8bdc3a47",
+      "bytes": 13271,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/security-awareness-incident-reporting-and-escalation-procedure.md": {
+      "sha256": "f0ccbb7cec517a9276a70beb173f4fdc62113188d0e68d6af2d8d51055f9c655",
+      "bytes": 13506,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/security-exception-and-risk-acceptance-procedure.md": {
+      "sha256": "7099d2663fe7d8e98cf40eb43c47f667f2e7a53c797ad1e45cb9a599370573ed",
+      "bytes": 14372,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/security-logging-and-monitoring-procedure.md": {
+      "sha256": "7d5fb9ea43c4d2dab5273d2fa23444510e485568ba5528a766e21fd934fe7c2f",
+      "bytes": 15900,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/procedures/third-party-security-assessment-procedure.md": {
+      "sha256": "56faa57761833f8f635c738d1088799aa500fb5197921f43c4f1a3b02eb63217",
+      "bytes": 14475,
+      "source_package": "policies-and-procedures-complete.zip"
+    },
+    "docs/methodology/assessment-quality-assurance-methodology.md": {
+      "sha256": "45f2c336ed095459886aaba756382e7be49961b9568b191f179ca8d5dd698777",
+      "bytes": 5271,
+      "source_package": "methodology-complete.zip"
+    },
+    "docs/methodology/assessment-sampling-methodology.md": {
+      "sha256": "57003f5c67585b2db81163223e84cdc8275ca7007660d1dffeb845f37caba63c",
+      "bytes": 5685,
+      "source_package": "methodology-complete.zip"
+    },
+    "docs/methodology/continuous-security-assessment-methodology.md": {
+      "sha256": "072c865395c9112370ea4823628f31bbbc313806488ef202d3e2988e44ad8bb8",
+      "bytes": 5472,
+      "source_package": "methodology-complete.zip"
+    },
+    "docs/methodology/finding-classification-and-severity-methodology.md": {
+      "sha256": "cee98038e7de6eb837caf3bc4d9e5c603c5bf29222a0249458ce1d9ba1a9898a",
+      "bytes": 6016,
+      "source_package": "methodology-complete.zip"
+    },
+    "docs/methodology/security-control-assessment-methodology.md": {
+      "sha256": "067e4176c780b54451a9963a072e3ce63d323c6f8aadfba7dae84b4a4593fb92",
+      "bytes": 6780,
+      "source_package": "methodology-complete.zip"
+    },
+    "docs/methodology/technical-security-assessment-methodology.md": {
+      "sha256": "d163aef1d0c9b964a66b0d0db21193e50e33a84f0b30bbe33c58b8153ad395a2",
+      "bytes": 6290,
+      "source_package": "methodology-complete.zip"
+    },
+    "docs/workflows/assessment-lifecycle-workflow.md": {
+      "sha256": "7e794c953ea53faa0ee09294cb52288e10aaeed1df4fce7a20ca69304cfb3948",
+      "bytes": 6575,
+      "source_package": "workflows-complete.zip"
+    },
+    "docs/workflows/business-continuity-and-disaster-recovery-workflow.md": {
+      "sha256": "875222dd33972e43964c307d60387511ef9caa1f2d2019de1f7f1ec7b2181499",
+      "bytes": 7381,
+      "source_package": "workflows-complete.zip"
+    },
+    "docs/workflows/evidence-collection-and-handling-workflow.md": {
+      "sha256": "b60c16d61be853d732b43c260a217d1ea500f928f51bdb9c4e5bda2684378dd5",
+      "bytes": 7217,
+      "source_package": "workflows-complete.zip"
+    },
+    "docs/workflows/risk-assessment-workflow.md": {
+      "sha256": "5906993dd2fd917c1d640bbc126a5a849c02a0ad3ec1b7d34c09403f1f4c45d6",
+      "bytes": 7036,
+      "source_package": "workflows-complete.zip"
+    },
+    "docs/workflows/security-exception-and-risk-acceptance-workflow.md": {
+      "sha256": "249a536922d254d054604938155658aec041ff30425edea727fa7afccfa4df5c",
+      "bytes": 6963,
+      "source_package": "workflows-complete.zip"
+    },
+    "docs/workflows/security-incident-response-workflow.md": {
+      "sha256": "09a867a5647572ea5e00854e7e18aab9cf3a49c532cfaf25775dc562f99c6ecb",
+      "bytes": 7161,
+      "source_package": "workflows-complete.zip"
+    },
+    "docs/workflows/security-logging-and-monitoring-workflow.md": {
+      "sha256": "e1b790a42da89adf2b427e7aefff9c62f3e00e7797d4f6d040d2fdbcb9f4229b",
+      "bytes": 7073,
+      "source_package": "workflows-complete.zip"
+    },
+    "docs/workflows/security-remediation-workflow.md": {
+      "sha256": "d1da0b8ed4d9dfb86ba7a011fdb7f57bcf5e006724cec6d1f9c900d7aba49b20",
+      "bytes": 6895,
+      "source_package": "workflows-complete.zip"
+    },
+    "docs/workflows/third-party-security-assessment-workflow.md": {
+      "sha256": "c453110ec398e7a4104bd23992d921ed7b9a22a1ebed77a85573f9931783cc2c",
+      "bytes": 7117,
+      "source_package": "workflows-complete.zip"
+    },
+    "docs/workflows/vulnerability-management-workflow.md": {
+      "sha256": "bc0611496ccd0e58c01fee10197c84e4e36896dcc861981f8fbaaa0c6cb33cf1",
+      "bytes": 6819,
+      "source_package": "workflows-complete.zip"
+    },
+    "docs/examples/sample-control-assessment.md": {
+      "sha256": "74f76ee524c86b543b6ecb824af40cf033e55df7e48aeccc5b90d06ab32d1339",
+      "bytes": 4189,
+      "source_package": "examples-complete.zip"
+    },
+    "docs/examples/sample-evidence-register.md": {
+      "sha256": "42a266195f25bd3137f7c269604b7af9538fa3c3f0edcee284d090813672b11f",
+      "bytes": 4119,
+      "source_package": "examples-complete.zip"
+    },
+    "docs/examples/sample-incident-report.md": {
+      "sha256": "55bdbcccb31687f1680d5ea86fdca662245432098553c50110ebb2d72f3cb82c",
+      "bytes": 5381,
+      "source_package": "examples-complete.zip"
+    },
+    "docs/examples/sample-remediation-record.md": {
+      "sha256": "feb81b90411311f2d3bc5bd664f511a23bb734f34c4bda9d3e436e204e6226bf",
+      "bytes": 4077,
+      "source_package": "examples-complete.zip"
+    },
+    "docs/examples/sample-risk-assessment.md": {
+      "sha256": "9532387c6cba7135eb33bea4ac0b4d97e6b6d12e47d2f9b854647d0d590074ad",
+      "bytes": 5967,
+      "source_package": "examples-complete.zip"
+    },
+    "docs/examples/sample-risk-register.md": {
+      "sha256": "1368d46892fc1a4a371e07c6d6aafd9d3bba0a7beb6893f9a93fc512b01ba215",
+      "bytes": 4389,
+      "source_package": "examples-complete.zip"
+    },
+    "docs/examples/sample-security-assessment-report.md": {
+      "sha256": "70139f041e84b915fe3da8cbb899f410864ea470b32264a965b7cae5882582c0",
+      "bytes": 7022,
+      "source_package": "examples-complete.zip"
+    },
+    "docs/examples/sample-security-exception.md": {
+      "sha256": "a736e82f20daf2e55c96046de25c8407eddbe4e4218595828204783f6abe87b2",
+      "bytes": 4631,
+      "source_package": "examples-complete.zip"
+    },
+    "docs/examples/sample-security-finding.md": {
+      "sha256": "980eeea84090730f5b62823c9ae2dd9a68c1b5d3504296f538c232f3059ea1f2",
+      "bytes": 4694,
+      "source_package": "examples-complete.zip"
+    },
+    "docs/examples/sample-third-party-assessment.md": {
+      "sha256": "a9a801e7c9ba139d30fbe3e46525e48ef590ef9bd1d6f9a6a841fa4303f7a152",
+      "bytes": 4740,
+      "source_package": "examples-complete.zip"
+    },
+    "docs/examples/sample-vulnerability-assessment.md": {
+      "sha256": "0f04ff98de7254966a0911ec48da10f828f5b929a5829c11e3e022e5da1d0231",
+      "bytes": 4607,
+      "source_package": "examples-complete.zip"
+    },
+    "docs/images/assessment-lifecycle.png": {
+      "sha256": "ee494b7c9435595d0cbfec3ba5514d6f9b637287dcde05cc42b746c488108394",
+      "bytes": 69559,
+      "source_package": "images-complete.zip"
+    },
+    "docs/images/assessment-lifecycle.svg": {
+      "sha256": "ec50965637a8785c734ea1d8dc1b52d7d6a59639c9a98c9c850164b7f8722afc",
+      "bytes": 9622,
+      "source_package": "images-complete.zip"
+    },
+    "docs/images/evidence-lifecycle.png": {
+      "sha256": "3d7ebb6429f90ddd435d78b75785b812db87e8c190b093b99ba1cee40f6867c5",
+      "bytes": 70227,
+      "source_package": "images-complete.zip"
+    },
+    "docs/images/evidence-lifecycle.svg": {
+      "sha256": "af384cb0e9d3b47bfe8798626e81d1167b562ffe627592c2db3ace0584735137",
+      "bytes": 9643,
+      "source_package": "images-complete.zip"
+    },
+    "docs/images/framework-architecture.png": {
+      "sha256": "1505bc84c7245f12783bfd9a146100f73cd43fc9e154fadba885b1d6d3ca6136",
+      "bytes": 127824,
+      "source_package": "images-complete.zip"
+    },
+    "docs/images/framework-architecture.svg": {
+      "sha256": "e8f3386e7eeabf57b5e2ee78e132a060054f18e66956b3c668770f06169f781c",
+      "bytes": 8251,
+      "source_package": "images-complete.zip"
+    },
+    "docs/images/governance-and-accountability.png": {
+      "sha256": "24cba4336f364bd18e507e9adfa0e46f3f8738ebeafb20fb1e65dfe7082a2e30",
+      "bytes": 119570,
+      "source_package": "images-complete.zip"
+    },
+    "docs/images/governance-and-accountability.svg": {
+      "sha256": "ccd76b64e650c04b7eebcc493ccae90c11727b009abca020011fdf32df0dc415",
+      "bytes": 10091,
+      "source_package": "images-complete.zip"
+    },
+    "docs/images/incident-response-lifecycle.png": {
+      "sha256": "d1c9b6b5ad0731dc468bbe9a7748dd8418472d8d20dd4d7ee3396f312e393514",
+      "bytes": 73644,
+      "source_package": "images-complete.zip"
+    },
+    "docs/images/incident-response-lifecycle.svg": {
+      "sha256": "33ce95aa53c3df3ef7951ecc08f42ce831cb5de638ad8f7156f38d68a8e8b1f3",
+      "bytes": 9623,
+      "source_package": "images-complete.zip"
+    },
+    "docs/images/risk-assessment-model.png": {
+      "sha256": "2d33451392f5623a0fa86a63d62abc5c9a7d74497fa35e8b74de1f247de5ed67",
+      "bytes": 74848,
+      "source_package": "images-complete.zip"
+    },
+    "docs/images/risk-assessment-model.svg": {
+      "sha256": "9a72a687aa98f7aafcecf060ae84fe8145dc750582a9a6e5f4dda160107253cd",
+      "bytes": 9670,
+      "source_package": "images-complete.zip"
+    },
+    "docs/images/risk-scoring-matrix.png": {
+      "sha256": "b695325163975cb14751c34ed7652588b28c35fea2c535835ddd5c51cc234f3e",
+      "bytes": 93665,
+      "source_package": "images-complete.zip"
+    },
+    "docs/images/risk-scoring-matrix.svg": {
+      "sha256": "b0e10274eb3721c0f98042990b2b057f86b63783a041b474009a64896bde2f4f",
+      "bytes": 68101,
+      "source_package": "images-complete.zip"
+    },
+    "docs/images/vulnerability-management-lifecycle.png": {
+      "sha256": "36ebfac4fd7108b8ebc3e55bcbdef03dd25a1948218e5239b0e4835df625e814",
+      "bytes": 72589,
+      "source_package": "images-complete.zip"
+    },
+    "docs/images/vulnerability-management-lifecycle.svg": {
+      "sha256": "6537578d53bb168c29d8794df37669f1ae17edf6b4188d3905e2396ab10ad32a",
+      "bytes": 9633,
+      "source_package": "images-complete.zip"
+    },
+    "docs/images/README.md": {
+      "sha256": "61046478754ef44745f2aaca2202184807ab09401f669bb4fdd056b9d4431656",
+      "bytes": 2194,
+      "source_package": "images-complete.zip"
+    },
+    "templates/third-party-security-assessment-template.md": {
+      "sha256": "90cba38bde95311b2965e7fb5df6bfc8bff175fd89454e23e6f9bc56724920bc",
+      "bytes": 3827,
+      "source_package": "templates-additional-12.zip"
+    },
+    "templates/security-incident-record-template.md": {
+      "sha256": "50b50af56e49d82d2a83187a1d4d881f51fd7fb2930cf18a092503163d2decd5",
+      "bytes": 3754,
+      "source_package": "templates-additional-12.zip"
+    },
+    "templates/assessment-quality-review-template.md": {
+      "sha256": "47de026785bacc4489c3a2bfe65d1eac474e6135f3b7e47d24ee2e09eb16b4e2",
+      "bytes": 3714,
+      "source_package": "templates-additional-12.zip"
+    },
+    "templates/assessment-plan-template.md": {
+      "sha256": "002c7c4f08c48aa13161a1c18ebc2a0be34ac81da6ccf51ca19cb60f16cacb0f",
+      "bytes": 4102,
+      "source_package": "templates-additional-12.zip"
+    },
+    "templates/security-logging-and-monitoring-review-template.md": {
+      "sha256": "8f1752ff56f117ffdfeca0b1e66b67f47de5a9d9f1af5e10bd2304c9ab5d12d8",
+      "bytes": 3081,
+      "source_package": "templates-additional-12.zip"
+    },
+    "templates/remediation-plan-and-verification-template.md": {
+      "sha256": "d23f8b7a646c8540407d6f7dd4ee9a045911f80622a53d65ccdced7b30ad1a3f",
+      "bytes": 3311,
+      "source_package": "templates-additional-12.zip"
+    },
+    "templates/assessment-authorization-and-rules-of-engagement-template.md": {
+      "sha256": "b08142c350b7df66bcdd5e715623baa244ea6a70676aee57c9f7d0175ba26536",
+      "bytes": 4739,
+      "source_package": "templates-additional-12.zip"
+    },
+    "templates/finding-register-template.md": {
+      "sha256": "5199467bc16d830d8ca5420499d4821b212a5e7b326d1cfd5c6f65996eddc62e",
+      "bytes": 3363,
+      "source_package": "templates-additional-12.zip"
+    },
+    "templates/security-assessment-request-template.md": {
+      "sha256": "340ecc1c8712e51f3a90b686344e64ca5a6d74ccbea12ccec31941f07b7706f5",
+      "bytes": 4033,
+      "source_package": "templates-additional-12.zip"
+    },
+    "templates/control-assessment-worksheet-template.md": {
+      "sha256": "7e45c341486a3b90746778652115f4a4aaac7f3ea26eef9633d09bc9a03dde9e",
+      "bytes": 3733,
+      "source_package": "templates-additional-12.zip"
+    },
+    "templates/vulnerability-assessment-record-template.md": {
+      "sha256": "7715ef3cbfecd128934900f6e95d28a789fc1fe3463eeb042ff02ba4a3814059",
+      "bytes": 3667,
+      "source_package": "templates-additional-12.zip"
+    },
+    "templates/security-exception-and-risk-acceptance-template.md": {
+      "sha256": "acf34b5878512821403456181dbd62cb357debe0e51739326f97983e41b4252b",
+      "bytes": 3349,
+      "source_package": "templates-additional-12.zip"
+    },
+    "references/standards-and-frameworks.md": {
+      "sha256": "53c6cd032d11a3c0315505f36ce363c4332efbc5033e36749fe9f828cef947b6",
+      "bytes": 10678,
+      "source_package": "references-complete-3.zip"
+    },
+    "references/references-and-citation-guidance.md": {
+      "sha256": "c41f9a06c16663df81ca8c833e6a8be7d0f82a24566b28cdc8aca099f71e3e69",
+      "bytes": 5616,
+      "source_package": "references-complete-3.zip"
+    },
+    "references/standards-to-framework-mapping.md": {
+      "sha256": "89d2cf588914319699cab6f8696fa742fba23266f3552705e779400a180e69ce",
+      "bytes": 5504,
+      "source_package": "references-complete-3.zip"
+    },
+    "docs/methodology/assessment-lifecycle.md": {
+      "sha256": "6e411f1b74f2bd26025486eb52f8766fea365fafa6dccc510244ea24460dba7a",
+      "bytes": 28051,
+      "source_package": "assessment-lifecycle-file-package.zip"
+    },
+    "docs/methodology/risk-assessment-methodology.md": {
+      "sha256": "9580a16fc9598b92101ac5df246033b4a7fe6a35b7a847e1d79001ce85c286a2",
+      "bytes": 32462,
+      "source_package": "risk-assessment-methodology-file-package.zip"
+    },
+    "docs/methodology/risk-scoring-model.md": {
+      "sha256": "281ec5fc0b04f0e5cdbed69512f3d32fbf73fabd9722246deb5ca4d3ded7a1be",
+      "bytes": 33173,
+      "source_package": "risk-scoring-model-file-package.zip"
+    },
+    "docs/methodology/evidence-handling.md": {
+      "sha256": "d117b9d85df3127265f842b90de989a4038a6903c82978b06c6020e68735e34b",
+      "bytes": 33730,
+      "source_package": "evidence-handling-file-package.zip"
+    },
+    "docs/policies/information-security-policy.md": {
+      "sha256": "2183ca5b78a5913dd2909f4ca34fc2731bf008404f07acba9bb5a123db835aec",
+      "bytes": 31599,
+      "source_package": "information-security-policy-package.zip"
+    },
+    "docs/procedures/security-assessment-authorization-procedure.md": {
+      "sha256": "0f03d472a718ba1533b9ea1f682599618f57752b67f999dc7e27c02e90927fc4",
+      "bytes": 39201,
+      "source_package": "security-assessment-authorization-procedure-package.zip"
+    },
+    "docs/procedures/vulnerability-assessment-procedure.md": {
+      "sha256": "595c790d82faf7a5f9eedb0373f4950a647425f49429414c92b4e27500d152af",
+      "bytes": 34076,
+      "source_package": "vulnerability-assessment-procedure-package.zip"
+    },
+    "docs/procedures/security-remediation-and-patch-management-procedure.md": {
+      "sha256": "5cd85656492af339a97d00c7267ee133f149cc49e9ec7150fd4e66c71ae74bed",
+      "bytes": 45472,
+      "source_package": "security-remediation-and-patch-management-procedure-package.zip"
+    },
+    "docs/procedures/security-incident-response-procedure.md": {
+      "sha256": "3a8dc592e95edbd2f573b636c99bc028e3bd08f22107f16b59252fcbeb7db1e6",
+      "bytes": 50219,
+      "source_package": "security-incident-response-procedure-package.zip"
+    },
+    "templates/risk-register-template.md": {
+      "sha256": "c568fe52168202c78e8f6017f85508383dbfff8a84583f17fd28db6dce6b2157",
+      "bytes": 29144,
+      "source_package": "risk-register-template-package.zip"
+    },
+    "templates/assessment-report-template.md": {
+      "sha256": "f26a85701fba573955c30308cfa41954ad558c99623c197697f9137bf270dd7f",
+      "bytes": 32078,
+      "source_package": "assessment-report-template-package.zip"
+    },
+    "templates/technical-assessment-checklist.md": {
+      "sha256": "7a9187036f68a33370098a1b7764f0099903b3e1ac5f1fca6a169f14ed41c24e",
+      "bytes": 37083,
+      "source_package": "technical-assessment-checklist-package.zip"
+    },
+    "templates/evidence-register-template.md": {
+      "sha256": "c4590bd431c9d1aa676b5bd97b27f49e97d97ac292c6b912ec4465c783919fa9",
+      "bytes": 29814,
+      "source_package": "evidence-register-template-package.zip"
+    }
+  },
+  "conflicts": []
+}
